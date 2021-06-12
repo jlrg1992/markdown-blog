@@ -19,7 +19,7 @@ cuando con tristeza vi,
 que encontraba el horizonte  
 y se volvía ajena.
 
-Mas llegó una nueva noche,
-y apareció perfecta
-convirtiendo lo fugaz
+Mas llegó una nueva noche,  
+y apareció perfecta  
+convirtiendo lo fugaz  
 en alegría completa.
