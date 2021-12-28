@@ -1,7 +1,7 @@
 ---
 title: Acerca de
 subtitle: Un recorrido de vida
-date: 24-06-2019
+date: 28-12-2021
 ---
 ### **mail\:** jlrg1992@gmail.com
 
@@ -15,10 +15,6 @@ date: 24-06-2019
     Santiago de Querétaro, Qro. Méx.  
     UNIVERSIDAD ANÁHUAC
 
-+ Julio 2019 - Junio 2020 --> Médico Interno de Pregado  
-    Cadereyta de los Montes, Qro. Méx.  
-    Hospital Genral de Cadereyta
-
 ## Idiomas
 
 + Español: Natal
@@ -26,7 +22,29 @@ date: 24-06-2019
 
 ## Experiencia Laboral
 
-+ Julio 2019 - Junio 2020 --> Hospital General Cadereyta  
++ Septiembre 2021 - Presente --> Sanatorio Guadalupe
+	Cargo ocupado: Médico de guardia
+	*Tareas realizadas:*
+	+ Consulta General
+	+ Atención de urgencias
+	+ Instrumentación quirúrgica
+	+ Asistencia quirúrgica
+	+ Inducción, conducción y atención de parto
+
++ Septiembre 2021 - Presente --> Colegio Internacional Celta
+	Cargo ocupado: Servicio médico
+	*Tareas realizadas:*
+	+ Atención de urgencias
+	+ Valoracin médica de personal y de alumnos de guardería
+
+* Septiembre 2020 - Agosto 2021 --> Secretaría de Salud | Centro de Salud San Pablo Tolimán
+	Cargo ocupado: Médico Pasante de Servicio Social
+	+ Consulta general
+	+ Atención de urgencias
+	+ Realización de estadística
+	+ Elaboración de diagnóstico de salud
+
++ Julio 2019 - Junio 2020 --> Secretaría de Salud | Hospital General Cadereyta  
     Cargo ocupado: Médico Interno de Pregrado
 
 + Julio 2015 - Octubre 2015 --> Corporativo Bajío Comunicaciones \| Noticiero Radar News  
@@ -54,6 +72,7 @@ date: 24-06-2019
 
 ## Cursos y capacitaciones
 
++ Asistente al II Congreso INternacional Medicina Anáhuac (Noviembre 2021)
 + Programa de Capacitación en Infección por SARS-CoV-2 en Atención Primaria de Salud (Abril 2020)
 + Salud Mental druante la Pandemia COVID-19 (Abril 2020)
 + Asistente en la XXII Reunión de la Sociedad Médica del Hospital General de México.
