@@ -36,6 +36,8 @@ date: 28-12-2021
 	*Tareas realizadas:*
 	+ Atención de urgencias
 	+ Valoracin médica de personal y de alumnos de guardería
+	+ Desarrollo de campañas informativas en temas de salud
+	+ Implementación y seguimiento de la NOM-035
 
 * Septiembre 2020 - Agosto 2021 --> Secretaría de Salud | Centro de Salud San Pablo Tolimán
 	Cargo ocupado: Médico Pasante de Servicio Social
