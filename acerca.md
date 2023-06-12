@@ -72,14 +72,17 @@ date: 28-12-2021
 
 ## Cursos y capacitaciones
 
-+ Asistente al II Congreso INternacional Medicina Anáhuac (Noviembre 2021)
-+ Programa de Capacitación en Infección por SARS-CoV-2 en Atención Primaria de Salud (Abril 2020)
-+ Salud Mental druante la Pandemia COVID-19 (Abril 2020)
-+ Asistente en la XXII Reunión de la Sociedad Médica del Hospital General de México.
-+ Asistente del I Congreso Estudiantil de Genómica y Proteómica 
-+ Asistente en la XXI Congreso Bienal de Diálisis.
++ Asistente al 1er Congreso de Atención Integrada a la Salud de la Infancia y Adolescencia y XIV Congreso Estatal del Colegio de Pediatras  
++ Proveedor de Soporte Vital Básico por la American Heart Association (Mayo 2022)  
++ Proveedor de Soporte Vital Avanzado por la American Heart Association (Mayo 2022)  
++ Asistente al II Congreso Internacional Medicina Anáhuac (Noviembre 2021)  
++ Programa de Capacitación en Infección por SARS-CoV-2 en Atención Primaria de Salud (Abril 2020)  
++ Salud Mental druante la Pandemia COVID-19 (Abril 2020)  
++ Asistente en la XXII Reunión de la Sociedad Médica del Hospital General de México.  
++ Asistente del I Congreso Estudiantil de Genómica y Proteómica  
++ Asistente en la XXI Congreso Bienal de Diálisis.  
 + Curso de Urgencias-Trauma de la Sociedad Médico Quirúrgica del Hospital Juárez de México, AC.  
-+ Asistente en Primer Congreso Internacional de Oncología Pediátrica "El Poder de la Atención Integral en la Sobrevida" por Consejo Mexicano de Oncología | Hospital Infantil Teletón de oncología  (Abril 2021)
++ Asistente en Primer Congreso Internacional de Oncología Pediátrica "El Poder de la Atención Integral en la Sobrevida" por Consejo Mexicano de Oncología | Hospital Infantil Teletón de oncología  (Abril 2021)  
 + 4º Simposio: Día Mundial del Riñón: "Viviendo Bien con Enfermedad Renal" por Centro Estatal de Trasplantes de Querétaro (Marzo 2021)  
 + Sesión en línea "Actualidades en Hepatitis B" por Asociación Mexicana de Gastroenterología, A.C. (Enero 2021)  
 + 1er Congreso Internacional Medicina Anáhuac "Enfermedades Crónico Degenerativas" (Noviembre 2020)  
