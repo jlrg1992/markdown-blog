@@ -72,7 +72,7 @@ date: 28-12-2021
 
 ## Cursos y capacitaciones
 
-+ Asistente al 1er Congreso de Atención Integrada a la Salud de la Infancia y Adolescencia y XIV Congreso Estatal del Colegio de Pediatras  
++ Asistente al 1er Congreso de Atención Integrada a la Salud de la Infancia y Adolescencia y XIV Congreso Estatal del Colegio de Pediatras (Noviembre 2022)  
 + Proveedor de Soporte Vital Básico por la American Heart Association (Mayo 2022)  
 + Proveedor de Soporte Vital Avanzado por la American Heart Association (Mayo 2022)  
 + Asistente al II Congreso Internacional Medicina Anáhuac (Noviembre 2021)  
